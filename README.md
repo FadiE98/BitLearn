@@ -63,8 +63,8 @@ The game teaches 21 essential Bitcoin concepts including:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/FadiE98/BitLearn.git
-   cd BitLearn
+   git clone https://github.com/$Username$/$Repo name$.git
+   cd $repo name$
    ```
 
 2. **Open in browser**
@@ -125,7 +125,7 @@ The game teaches 21 essential Bitcoin concepts including:
    - Click **Save**
 
 4. **Your site is live!**
-   - Your site will be available at: `https://FadiE98.github.io/BitLearn`
+   - Your site will be available at the url created.
    - It may take a few minutes to deploy
    - You can check the deployment status in the **Actions** tab
 
