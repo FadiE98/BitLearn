@@ -162,9 +162,5 @@ This project is open source and available for educational purposes.
 
 ## Contact
 
-Have questions or suggestions? Open an issue on GitHub! Or DM me on X (Twitter):
-
-https://x.com/RealFadi_
-
----
+Have questions or suggestions? Open an issue on GitHub!
 
